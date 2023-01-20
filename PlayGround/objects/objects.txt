@@ -1,0 +1,5 @@
+object literal 
+const person = {
+    name  : 'anon',
+    age: 1001,
+}
